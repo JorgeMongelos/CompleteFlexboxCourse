@@ -1,0 +1,10 @@
+/* Your code goes here */
+.container{
+    display: flex; /*default behavior: inline-behavior */
+
+}
+
+/* flex-direction: row;
+ * 
+ *
+ */
