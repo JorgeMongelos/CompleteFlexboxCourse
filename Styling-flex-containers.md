@@ -1,4 +1,4 @@
-# Flex Containers
+# Styling Flex Containers.
 
 ## Flex-direction - Creating row and column layouts.
 +  [Flexbox Froggy](https://appbrewery.github.io/flexboxfroggy/)
