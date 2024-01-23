@@ -313,33 +313,3 @@ body{
     </body>
 </html>
 ```
-
-## Placeholder
-
-```CSS
-
-```
-```HTML
-```
- 
-## Useful samples
-
-```CSS
-
-```
-```HTML
-<table>
-    <thead>
-    </thead>
-    <tbody>
-      <tr>
-        <td></td>
-        <td>
-          <ul>
-            <li></li>
-          </ul>
-      </td>
-      </tr>
-    </tbody>
-</table> 
-```
